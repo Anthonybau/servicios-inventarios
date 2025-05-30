@@ -29,4 +29,4 @@ class ProductoRead(ProductoBase):
     id: int
     categoria: Optional[CategoriaRead]
 
-SQLModel.update_forward_refs()
+
